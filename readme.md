@@ -48,7 +48,6 @@ If you find this repository useful in your research, please cite our paper:
   organization={IEEE}
 }
 
-```bibtex
 @article{jiang2016spotting,
   title={Spotting suspicious behaviors in multimodal data: A general metric and algorithms},
   author={Jiang, Meng and Beutel, Alex and Cui, Peng and Hooi, Bryan and Yang, Shiqiang and Faloutsos, Christos},
